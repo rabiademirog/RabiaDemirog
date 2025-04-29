@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Rabia 👩‍💻</h1>
 
-## 👩‍💻 About Me
-
-<p>I’m a **Computer Engineering** graduate with strong experience in **C#** and **Java**. </p>
----
-
 
 
 ## 📊 GitHub Stats
