@@ -15,9 +15,9 @@ I’m a **Computer Engineering** graduate with experience in **.NET Core** and *
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiademirog&theme=radical" />
 </p>
 
-## 📂 Top Repositories
+## 📈 Contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rabiademirog&repo=your-repository-name&theme=radical)](https://github.com/rabiademirog/your-repository-name)
+![Rabia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiademirog&show_icons=true&count_private=true&theme=radical)
 
 
 ## 📫 Get in Touch
