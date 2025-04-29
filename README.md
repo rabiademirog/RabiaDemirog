@@ -1,7 +1,5 @@
-<h1 align="center">Merhaba, ben Rabia 👋</h1>
-<p align="center">🎯 Java Back-End Geliştirici | Sürekli Öğrenen | Takım Oyuncusu</p>
+<h1 align="center">Hi, I'm Rabia 👩‍💻</h1>
 
----
 
 
 ## 🛠️ Kullandığım Teknolojiler
@@ -17,7 +15,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -27,17 +25,9 @@
 </p>
 
 
----
-
-## 🔍 Profil Görüntüleme Sayacı
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rabiademirog&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="profil görüntüleme sayacı" />
-</p>
 
 
-
-## 📫 İletişim
+## 📫 Get in Touch
 
 - 📧 E-posta: rabiademirog@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rabia-demiroğ/)  
