@@ -10,6 +10,12 @@ I’m a **Computer Engineering** graduate with experience in **.NET Core** and *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiademirog&layout=compact&count_private=true&theme=radical" height="180"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiademirog&theme=radical" />
+</p>
+
 
 
 ## 📫 Get in Touch
