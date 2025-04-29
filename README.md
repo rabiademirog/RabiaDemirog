@@ -10,6 +10,11 @@ I’m a Computer Engineering graduate with experience in C# and Java.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiademirog&layout=compact&count_private=true&theme=radical" height="180"/>
 </p>
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rabiademirog&theme=radical" alt="Activity Graph" />
+</p>
 
 
 
