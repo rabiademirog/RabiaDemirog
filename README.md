@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rabia 👩‍💻</h1>
 
-I’m a **Computer Engineering** graduate with strong experience in back-end development. I’m passionate about building scalable applications and constantly improving my skills through real-world projects and new technologies.
+I’m a Computer Engineering graduate with experience in C# and Java. 
 
 
 ## 📊 GitHub Stats
