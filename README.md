@@ -22,8 +22,8 @@
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**rabiademirog**&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**rabiademirog**&layout=compact&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabiademirog&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiademirog&layout=compact&theme=default" height="180"/>
 </p>
 
 
@@ -35,19 +35,11 @@
   <img src="https://komarev.com/ghpvc/?username=**kullanıcıadın**&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="profil görüntüleme sayacı" />
 </p>
 
----
+
 
 ## 📫 İletişim
 
-- 📧 E-posta: rabia@example.com  
+- 📧 E-posta: rabiademirog@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rabia-demiroğ/)  
 
----
-
-## 💬 Kapanış
-
-Yeni teknolojilere açık, ekip çalışmasına uyumlu ve öğrenmeye tutkuyla bağlı bir geliştirici olarak kariyerime sağlam adımlarla devam ediyorum.  
-**Düşle, Öğren, Geliştir!**
-
----
 
