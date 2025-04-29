@@ -2,19 +2,6 @@
 
 
 
-## 🛠️ Kullandığım Teknolojiler
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</div>
-
 
 
 ## 📊 GitHub Stats
