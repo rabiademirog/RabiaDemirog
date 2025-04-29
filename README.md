@@ -2,8 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a **Computer Engineering** graduate with strong experience in **C#** and **Java**. I’m passionate about back-end development and have worked on building scalable applications using frameworks like **Spring Boot** and **.NET**. Currently, I’m focused on expanding my skills in **microservices** and **cloud technologies**.
-
+I’m a **Computer Engineering** graduate with strong experience in **C#** and **Java**. 
 ---
 
 
