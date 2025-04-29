@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a **Computer Engineering** graduate with strong experience in **C#** and **Java**. 
+<p>I’m a **Computer Engineering** graduate with strong experience in **C#** and **Java**. </p>
 ---
 
 
