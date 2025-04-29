@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rabia 👩‍💻</h1>
 
-I’m a Computer Engineering graduate with experience in C# and Java. 
+I’m a **Computer Engineering** graduate with experience in **.NET Core** and **Java Spring** frameworks. I’m passionate about back-end development and love building scalable, efficient systems. I constantly seek opportunities to improve my skills and take on new challenges.
 
 
 ## 📊 GitHub Stats
@@ -8,12 +8,6 @@ I’m a Computer Engineering graduate with experience in C# and Java.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabiademirog&show_icons=true&count_private=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiademirog&layout=compact&count_private=true&theme=radical" height="180"/>
-</p>
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rabiademirog&theme=radical" alt="Activity Graph" />
 </p>
 
 
