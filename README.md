@@ -32,7 +32,7 @@
 ## 🔍 Profil Görüntüleme Sayacı
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=**kullanıcıadın**&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="profil görüntüleme sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=rabiademirog&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="profil görüntüleme sayacı" />
 </p>
 
 
