@@ -17,7 +17,6 @@ I’m a **Computer Engineering** graduate with experience in **.NET Core** and *
 
 
 
-
 ## 📫 Get in Touch
 
 - 📧 E-posta: rabiademirog@gmail.com  
