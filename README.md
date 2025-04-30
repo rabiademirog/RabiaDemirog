@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rabia 👩‍💻</h1>
+<h1 align="center">Hi, I'm Rabia Demiroğ👩‍💻</h1>
 
 I’m a **Computer Engineering** graduate with experience in **.NET Core** and **Java Spring** frameworks. I’m passionate about back-end development and love building scalable, efficient systems. I constantly seek opportunities to improve my skills and take on new challenges.
 
@@ -12,8 +12,9 @@ I’m a **Computer Engineering** graduate with experience in **.NET Core** and *
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiademirog&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=rabiademirog&theme=radical" />
 </p>
+
 
 
 
